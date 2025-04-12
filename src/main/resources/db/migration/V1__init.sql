@@ -1,5 +1,5 @@
 CREATE TABLE scores (
-    id             VARCHAR(8) PRIMARY KEY,
+    id             VARCHAR(10) PRIMARY KEY,
     toan           FLOAT,
     ngu_van        FLOAT,
     ngoai_ngu      FLOAT,
